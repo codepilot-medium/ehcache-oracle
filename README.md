@@ -1,2 +1,2 @@
-# ehcache-oracle
-A spring boot application that uses ehcache to cache data retrieved from Oracle database
+# blog
+The code repository correspoding to the ehcache blog on medium
